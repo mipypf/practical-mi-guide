@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaEuNbSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97414133
+_cell_length_b   6.00147734
+_cell_length_c   8.45811723
+_cell_angle_alpha   90.48418104
+_cell_angle_beta   89.57475846
+_cell_angle_gamma   89.72734610
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaEuNbSbO6
+_chemical_formula_sum   'Ba2 Eu2 Nb2 Sb2 O12'
+_cell_volume   303.23187126
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.99578905  0.02738892  0.25037367  1
+  Ba  Ba1  1  0.00421095  0.97261108  0.74962633  1
+  Eu  Eu2  1  0.50956663  0.53789751  0.25363645  1
+  Eu  Eu3  1  0.49043337  0.46210249  0.74636355  1
+  Nb  Nb4  1  0.00000000  0.50000000  -0.00000000  1
+  Nb  Nb5  1  0.50000000  0.00000000  0.50000000  1
+  Sb  Sb6  1  0.50000000  0.00000000  -0.00000000  1
+  Sb  Sb7  1  0.00000000  0.50000000  0.50000000  1
+  O  O8  1  0.20114817  0.23291196  0.96093920  1
+  O  O9  1  0.30820276  0.72412053  0.54521444  1
+  O  O10  1  0.79885183  0.76708804  0.03906080  1
+  O  O11  1  0.69179724  0.27587947  0.45478556  1
+  O  O12  1  0.26827323  0.69870646  0.94827035  1
+  O  O13  1  0.23131810  0.20254221  0.53087672  1
+  O  O14  1  0.73172677  0.30129354  0.05172965  1
+  O  O15  1  0.76868190  0.79745779  0.46912328  1
+  O  O16  1  0.43539427  0.96039102  0.26573454  1
+  O  O17  1  0.09395540  0.49862742  0.23284943  1
+  O  O18  1  0.56460573  0.03960898  0.73426546  1
+  O  O19  1  0.90604460  0.50137258  0.76715057  1

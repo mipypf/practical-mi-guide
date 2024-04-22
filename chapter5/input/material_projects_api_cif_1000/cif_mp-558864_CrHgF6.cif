@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CrHgF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58753464
+_cell_length_b   5.58173905
+_cell_length_c   5.58286394
+_cell_angle_alpha   54.31452243
+_cell_angle_beta   54.28982014
+_cell_angle_gamma   54.37216422
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrHgF6
+_chemical_formula_sum   'Cr1 Hg1 F6'
+_cell_volume   106.82191339
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  -0.00000000  -0.00000000  0.00000000  1
+  Hg  Hg1  1  0.50000000  0.50000000  0.50000000  1
+  F  F2  1  0.94992165  0.20470738  0.62199961  1
+  F  F3  1  0.20490421  0.62164537  0.94956784  1
+  F  F4  1  0.37840728  0.05093570  0.79455271  1
+  F  F5  1  0.79509579  0.37835463  0.05043216  1
+  F  F6  1  0.05007835  0.79529262  0.37800039  1
+  F  F7  1  0.62159272  0.94906430  0.20544729  1

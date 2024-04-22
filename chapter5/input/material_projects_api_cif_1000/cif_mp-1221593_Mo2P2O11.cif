@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Mo2P2O11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53676800
+_cell_length_b   3.88926500
+_cell_length_c   8.80580384
+_cell_angle_alpha   77.70361468
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mo2P2O11
+_chemical_formula_sum   'Mo2 P2 O11'
+_cell_volume   218.73607178
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.50000000  0.35210600  0.27011100  1
+  Mo  Mo1  1  0.00000000  0.65974600  0.71671200  1
+  P  P2  1  0.50000000  0.68042000  0.84725600  1
+  P  P3  1  0.00000000  0.40409100  0.16494600  1
+  O  O4  1  0.50000000  0.86894900  0.24431100  1
+  O  O5  1  0.00000000  0.11265700  0.75309200  1
+  O  O6  1  0.50000000  0.26238400  0.46790200  1
+  O  O7  1  0.00000000  0.73705800  0.51896900  1
+  O  O8  1  0.50000000  0.48005900  0.01984300  1
+  O  O9  1  0.00000000  0.49112200  0.99510900  1
+  O  O10  1  0.81423500  0.35455900  0.26334200  1
+  O  O11  1  0.18576500  0.35455900  0.26334200  1
+  O  O12  1  0.29955400  0.61712700  0.75417200  1
+  O  O13  1  0.70044600  0.61712700  0.75417200  1
+  O  O14  1  0.50000000  0.06554700  0.84988300  1

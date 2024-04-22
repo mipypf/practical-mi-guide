@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CeFeB4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.46570200
+_cell_length_b   5.94576000
+_cell_length_c   11.52350900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeFeB4
+_chemical_formula_sum   'Ce4 Fe4 B16'
+_cell_volume   237.45610364
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.50000000  0.37337600  0.14983200  1
+  Ce  Ce1  1  0.50000000  0.62662400  0.85016800  1
+  Ce  Ce2  1  0.50000000  0.12662400  0.64983200  1
+  Ce  Ce3  1  0.50000000  0.87337600  0.35016800  1
+  Fe  Fe4  1  0.50000000  0.36604400  0.41037300  1
+  Fe  Fe5  1  0.50000000  0.63395600  0.58962700  1
+  Fe  Fe6  1  0.50000000  0.13395600  0.91037300  1
+  Fe  Fe7  1  0.50000000  0.86604400  0.08962700  1
+  B  B8  1  0.00000000  0.11011000  0.04502800  1
+  B  B9  1  0.00000000  0.88989000  0.95497200  1
+  B  B10  1  0.00000000  0.38989000  0.54502800  1
+  B  B11  1  0.00000000  0.61011000  0.45497200  1
+  B  B12  1  0.00000000  0.14213300  0.46656400  1
+  B  B13  1  0.00000000  0.85786700  0.53343600  1
+  B  B14  1  0.00000000  0.35786700  0.96656400  1
+  B  B15  1  0.00000000  0.64213300  0.03343600  1
+  B  B16  1  0.00000000  0.02364600  0.18865600  1
+  B  B17  1  0.00000000  0.97635400  0.81134400  1
+  B  B18  1  0.00000000  0.47635400  0.68865600  1
+  B  B19  1  0.00000000  0.52364600  0.31134400  1
+  B  B20  1  0.00000000  0.22100700  0.31629500  1
+  B  B21  1  0.00000000  0.77899300  0.68370500  1
+  B  B22  1  0.00000000  0.27899300  0.81629500  1
+  B  B23  1  0.00000000  0.72100700  0.18370500  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Pr3TiSb5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.58748525
+_cell_length_b   9.58724819
+_cell_length_c   6.20903410
+_cell_angle_alpha   90.00065491
+_cell_angle_beta   90.00065110
+_cell_angle_gamma   119.99767923
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3TiSb5
+_chemical_formula_sum   'Pr6 Ti2 Sb10'
+_cell_volume   494.26915799
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.62017813  -0.00000829  0.25000757  1
+  Pr  Pr1  1  0.37981677  0.00000038  0.74998605  1
+  Pr  Pr2  1  0.00000590  0.62016524  0.25000170  1
+  Pr  Pr3  1  -0.00000059  0.37983390  0.74999919  1
+  Pr  Pr4  1  0.37982021  0.37982153  0.25000877  1
+  Pr  Pr5  1  0.62018421  0.62018227  0.74999268  1
+  Ti  Ti6  1  -0.00000425  -0.00000088  -0.00000277  1
+  Ti  Ti7  1  -0.00000303  -0.00000099  0.50000147  1
+  Sb  Sb8  1  0.25025361  0.00002484  0.25002302  1
+  Sb  Sb9  1  0.74973798  -0.00003500  0.75000096  1
+  Sb  Sb10  1  0.00000048  0.25025500  0.25000792  1
+  Sb  Sb11  1  0.00000421  0.74974499  0.74999391  1
+  Sb  Sb12  1  0.74973883  0.74976931  0.25000353  1
+  Sb  Sb13  1  0.25026427  0.25022979  0.74999732  1
+  Sb  Sb14  1  0.33333695  0.66666635  -0.00000093  1
+  Sb  Sb15  1  0.66666306  0.33333506  -0.00002499  1
+  Sb  Sb16  1  0.66666652  0.33335223  0.50000043  1
+  Sb  Sb17  1  0.33333674  0.66666627  0.50000517  1

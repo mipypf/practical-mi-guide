@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Sm2CuAs3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99137600
+_cell_length_b   3.99956800
+_cell_length_c   34.82254100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2CuAs3O
+_chemical_formula_sum   'Sm8 Cu4 As12 O4'
+_cell_volume   555.89937401
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.75000000  0.75123200  0.96688300  1
+  Sm  Sm1  1  0.25000000  0.25123200  0.53311700  1
+  Sm  Sm2  1  0.75000000  0.74876800  0.46688300  1
+  Sm  Sm3  1  0.25000000  0.24876800  0.03311700  1
+  Sm  Sm4  1  0.25000000  0.30797300  0.82417700  1
+  Sm  Sm5  1  0.75000000  0.80797300  0.67582300  1
+  Sm  Sm6  1  0.25000000  0.19202700  0.32417700  1
+  Sm  Sm7  1  0.75000000  0.69202700  0.17582300  1
+  Cu  Cu8  1  0.25000000  0.80838000  0.75003600  1
+  Cu  Cu9  1  0.75000000  0.30838000  0.74996400  1
+  Cu  Cu10  1  0.25000000  0.69162000  0.25003600  1
+  Cu  Cu11  1  0.75000000  0.19162000  0.24996400  1
+  As  As12  1  0.25000000  0.83099200  0.89297900  1
+  As  As13  1  0.75000000  0.33099200  0.60702100  1
+  As  As14  1  0.25000000  0.66900800  0.39297900  1
+  As  As15  1  0.75000000  0.16900800  0.10702100  1
+  As  As16  1  0.75000000  0.25128800  0.89409500  1
+  As  As17  1  0.25000000  0.75128800  0.60590500  1
+  As  As18  1  0.75000000  0.24871200  0.39409500  1
+  As  As19  1  0.25000000  0.74871200  0.10590500  1
+  As  As20  1  0.25000000  0.30905200  0.70547700  1
+  As  As21  1  0.75000000  0.80905200  0.79452300  1
+  As  As22  1  0.25000000  0.19094800  0.20547700  1
+  As  As23  1  0.75000000  0.69094800  0.29452300  1
+  O  O24  1  0.75000000  0.25129900  0.00013500  1
+  O  O25  1  0.25000000  0.75129900  0.49986500  1
+  O  O26  1  0.75000000  0.24870100  0.50013500  1
+  O  O27  1  0.25000000  0.74870100  0.99986500  1

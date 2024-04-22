@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr5(TiN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31326464
+_cell_length_b   6.85288473
+_cell_length_c   13.59597432
+_cell_angle_alpha   89.99887291
+_cell_angle_beta   100.06246488
+_cell_angle_gamma   122.86735673
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5(TiN3)2
+_chemical_formula_sum   'Sr10 Ti4 N12'
+_cell_volume   483.25442619
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.07816364  0.77651634  0.00159730  1
+  Sr  Sr1  1  0.92184104  0.69834361  0.49840851  1
+  Sr  Sr2  1  0.92183497  0.22348273  0.99840362  1
+  Sr  Sr3  1  0.07816013  0.30165736  0.50159220  1
+  Sr  Sr4  1  0.31197914  0.03464709  0.72192608  1
+  Sr  Sr5  1  0.68797429  0.72265127  0.77809637  1
+  Sr  Sr6  1  0.68801978  0.96535152  0.27807334  1
+  Sr  Sr7  1  0.31202444  0.27734854  0.22190379  1
+  Sr  Sr8  1  0.00002228  0.35591170  0.75000255  1
+  Sr  Sr9  1  -0.00002312  0.64408830  0.24999740  1
+  Ti  Ti10  1  0.55184069  0.88439274  0.57117979  1
+  Ti  Ti11  1  0.44817422  0.33253381  0.92883181  1
+  Ti  Ti12  1  0.44816079  0.11561219  0.42882112  1
+  Ti  Ti13  1  0.55182590  0.66746263  0.07116818  1
+  N  N14  1  0.88902428  0.95817397  0.62379481  1
+  N  N15  1  0.11100182  0.06917809  0.87622474  1
+  N  N16  1  0.11097760  0.04182759  0.37620473  1
+  N  N17  1  0.88899503  0.93082030  0.12377563  1
+  N  N18  1  0.29527825  0.67227686  0.64394880  1
+  N  N19  1  0.70473619  0.37705502  0.85605743  1
+  N  N20  1  0.70472283  0.32772530  0.35605050  1
+  N  N21  1  0.29526292  0.62294323  0.14394280  1
+  N  N22  1  0.57698039  0.18247241  0.57443665  1
+  N  N23  1  0.42304190  0.60548411  0.92553811  1
+  N  N24  1  0.42302076  0.81752873  0.42556107  1
+  N  N25  1  0.57695786  0.39451453  0.07446170  1

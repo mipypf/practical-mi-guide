@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Pr3SiAgSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.83301235
+_cell_length_b   10.83301235
+_cell_length_c   6.09608800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000216
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3SiAgSe7
+_chemical_formula_sum   'Pr6 Si2 Ag2 Se14'
+_cell_volume   619.55565689
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.12541700  0.35728400  0.73992600  1
+  Pr  Pr1  1  0.76813300  0.12541700  0.23992600  1
+  Pr  Pr2  1  0.35728400  0.23186700  0.23992600  1
+  Pr  Pr3  1  0.64271600  0.76813300  0.73992600  1
+  Pr  Pr4  1  0.23186700  0.87458300  0.73992600  1
+  Pr  Pr5  1  0.87458300  0.64271600  0.23992600  1
+  Si  Si6  1  0.33333300  0.66666700  0.32913900  1
+  Si  Si7  1  0.66666700  0.33333300  0.82913900  1
+  Ag  Ag8  1  0.00000000  0.00000000  0.19565000  1
+  Ag  Ag9  1  0.00000000  0.00000000  0.69565000  1
+  Se  Se10  1  0.52241000  0.10996400  0.97927900  1
+  Se  Se11  1  0.47759000  0.89003600  0.47927900  1
+  Se  Se12  1  0.10996400  0.58755400  0.47927900  1
+  Se  Se13  1  0.58755400  0.47759000  0.97927900  1
+  Se  Se14  1  0.09408900  0.26977800  0.22513800  1
+  Se  Se15  1  0.82431200  0.09408900  0.72513800  1
+  Se  Se16  1  0.41244600  0.52241000  0.47927900  1
+  Se  Se17  1  0.89003600  0.41244600  0.97927900  1
+  Se  Se18  1  0.33333300  0.66666700  0.95604200  1
+  Se  Se19  1  0.66666700  0.33333300  0.45604200  1
+  Se  Se20  1  0.90591100  0.73022200  0.72513800  1
+  Se  Se21  1  0.17568800  0.90591100  0.22513800  1
+  Se  Se22  1  0.73022200  0.82431200  0.22513800  1
+  Se  Se23  1  0.26977800  0.17568800  0.72513800  1

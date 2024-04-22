@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Mn3Co2As3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.62919900
+_cell_length_b   6.20298680
+_cell_length_c   6.20298804
+_cell_angle_alpha   61.20471649
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3Co2As3Rh
+_chemical_formula_sum   'Mn3 Co2 As3 Rh1'
+_cell_volume   122.37377502
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.59355900  0.40644100  1
+  Mn  Mn1  1  0.50000000  0.41204000  0.00139200  1
+  Mn  Mn2  1  0.50000000  0.99860800  0.58796000  1
+  Co  Co3  1  0.00000000  0.74179100  0.00253100  1
+  Co  Co4  1  0.00000000  0.99746900  0.25820900  1
+  As  As5  1  0.50000000  0.98335800  0.01664200  1
+  As  As6  1  0.00000000  0.33708900  0.31985500  1
+  As  As7  1  0.00000000  0.68014500  0.66291100  1
+  Rh  Rh8  1  0.00000000  0.25584200  0.74415800  1

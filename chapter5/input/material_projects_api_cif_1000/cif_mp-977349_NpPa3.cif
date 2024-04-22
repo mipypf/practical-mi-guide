@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NpPa3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18621085
+_cell_length_b   6.18621085
+_cell_length_c   5.60274900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000914
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NpPa3
+_chemical_formula_sum   'Np2 Pa6'
+_cell_volume   185.68687006
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.33333300  0.66666700  0.75000000  1
+  Np  Np1  1  0.66666700  0.33333300  0.25000000  1
+  Pa  Pa2  1  0.83225900  0.16774100  0.75000000  1
+  Pa  Pa3  1  0.33548300  0.16774100  0.75000000  1
+  Pa  Pa4  1  0.83225900  0.66451700  0.75000000  1
+  Pa  Pa5  1  0.16774100  0.83225900  0.25000000  1
+  Pa  Pa6  1  0.16774100  0.33548300  0.25000000  1
+  Pa  Pa7  1  0.66451700  0.83225900  0.25000000  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Tc2Pt(NO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73477100
+_cell_length_b   7.22926073
+_cell_length_c   9.37164788
+_cell_angle_alpha   106.70437189
+_cell_angle_beta   101.39748038
+_cell_angle_gamma   94.72696000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tc2Pt(NO2)4
+_chemical_formula_sum   'Tc2 Pt1 N4 O8'
+_cell_volume   234.94828146
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.95191200  0.33838200  0.67523000  1
+  Tc  Tc1  1  0.04808800  0.66161800  0.32477000  1
+  Pt  Pt2  1  0.00000000  0.00000000  0.00000000  1
+  N  N3  1  0.90561100  0.74921500  0.82390800  1
+  N  N4  1  0.09438900  0.25078500  0.17609200  1
+  N  N5  1  0.00547900  0.83871700  0.13809900  1
+  N  N6  1  0.99452100  0.16128300  0.86190100  1
+  O  O7  1  0.93346100  0.08291400  0.71682300  1
+  O  O8  1  0.06653900  0.91708600  0.28317700  1
+  O  O9  1  0.08583700  0.62018500  0.84709400  1
+  O  O10  1  0.91416300  0.37981500  0.15290600  1
+  O  O11  1  0.84562600  0.31252600  0.48487000  1
+  O  O12  1  0.15437400  0.68747400  0.51513000  1
+  O  O13  1  0.47278600  0.35750200  0.71443100  1
+  O  O14  1  0.52721400  0.64249800  0.28556900  1

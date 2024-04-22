@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaZn(MoO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74874953
+_cell_length_b   5.74874953
+_cell_length_c   7.30438100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999462
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaZn(MoO2)4
+_chemical_formula_sum   'Ba1 Zn1 Mo4 O8'
+_cell_volume   209.05513901
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.50000000  1
+  Mo  Mo2  1  0.33333300  0.66666700  0.71827200  1
+  Mo  Mo3  1  0.66666700  0.33333300  0.71827200  1
+  Mo  Mo4  1  0.33333300  0.66666700  0.28172800  1
+  Mo  Mo5  1  0.66666700  0.33333300  0.28172800  1
+  O  O6  1  0.29339900  0.29339900  0.68185500  1
+  O  O7  1  0.70660100  0.00000000  0.68185500  1
+  O  O8  1  0.00000000  0.70660100  0.68185500  1
+  O  O9  1  0.70660100  0.70660100  0.31814500  1
+  O  O10  1  0.00000000  0.29339900  0.31814500  1
+  O  O11  1  0.29339900  0.00000000  0.31814500  1
+  O  O12  1  0.33333300  0.66666700  0.00000000  1
+  O  O13  1  0.66666700  0.33333300  0.00000000  1

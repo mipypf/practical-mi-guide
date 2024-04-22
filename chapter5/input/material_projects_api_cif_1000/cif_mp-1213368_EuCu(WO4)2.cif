@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_EuCu(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31628900
+_cell_length_b   7.44596013
+_cell_length_c   7.76365719
+_cell_angle_alpha   114.98867032
+_cell_angle_beta   115.61267968
+_cell_angle_gamma   91.04403771
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuCu(WO4)2
+_chemical_formula_sum   'Eu2 Cu2 W4 O16'
+_cell_volume   335.08098245
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.18902100  0.27906300  0.46407200  1
+  Eu  Eu1  1  0.81097900  0.72093700  0.53592800  1
+  Cu  Cu2  1  0.22739000  0.67077100  0.95466500  1
+  Cu  Cu3  1  0.77261000  0.32922900  0.04533500  1
+  W  W4  1  0.26872900  0.29774700  0.03944800  1
+  W  W5  1  0.73127100  0.70225300  0.96055200  1
+  W  W6  1  0.64917400  0.10704700  0.29249300  1
+  W  W7  1  0.35082600  0.89295300  0.70750700  1
+  O  O8  1  0.20188700  0.37037300  0.82029300  1
+  O  O9  1  0.79811300  0.62962700  0.17970700  1
+  O  O10  1  0.45374300  0.53801700  0.26212900  1
+  O  O11  1  0.54625700  0.46198300  0.73787100  1
+  O  O12  1  0.85479500  0.00653800  0.19778600  1
+  O  O13  1  0.14520500  0.99346200  0.80221400  1
+  O  O14  1  0.70503200  0.01289200  0.48166600  1
+  O  O15  1  0.29496800  0.98710800  0.51833400  1
+  O  O16  1  0.17892300  0.63607100  0.54970000  1
+  O  O17  1  0.82107700  0.36392900  0.45030000  1
+  O  O18  1  0.47718000  0.82278500  0.00284400  1
+  O  O19  1  0.52282000  0.17721500  0.99715600  1
+  O  O20  1  0.04335000  0.30983800  0.08832600  1
+  O  O21  1  0.95665000  0.69016200  0.91167400  1
+  O  O22  1  0.38364100  0.16947000  0.25149400  1
+  O  O23  1  0.61635900  0.83053000  0.74850600  1

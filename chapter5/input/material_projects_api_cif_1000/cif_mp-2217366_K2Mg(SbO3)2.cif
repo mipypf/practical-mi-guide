@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_K2Mg(SbO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93874695
+_cell_length_b   5.93874695
+_cell_length_c   6.48997587
+_cell_angle_alpha   62.77201521
+_cell_angle_beta   62.77201521
+_cell_angle_gamma   59.99998941
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Mg(SbO3)2
+_chemical_formula_sum   'K2 Mg1 Sb2 O6'
+_cell_volume   168.30479717
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.38215200  0.38215200  0.85354400  1
+  K  K1  1  0.61784800  0.61784800  0.14645600  1
+  Mg  Mg2  1  0.00000000  0.00000000  0.00000000  1
+  Sb  Sb3  1  0.17699500  0.17699500  0.46901400  1
+  Sb  Sb4  1  0.82300500  0.82300500  0.53098600  1
+  O  O5  1  0.99020500  0.12958900  0.27363000  1
+  O  O6  1  0.12958900  0.60657500  0.27363000  1
+  O  O7  1  0.60657500  0.99020500  0.27363000  1
+  O  O8  1  0.00979500  0.87041100  0.72637000  1
+  O  O9  1  0.87041100  0.39342500  0.72637000  1
+  O  O10  1  0.39342500  0.00979500  0.72637000  1

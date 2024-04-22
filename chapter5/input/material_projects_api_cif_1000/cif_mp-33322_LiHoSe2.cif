@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiHoSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.99746754
+_cell_length_b   6.99746754
+_cell_length_c   6.99746754
+_cell_angle_alpha   132.45929007
+_cell_angle_beta   132.45929007
+_cell_angle_gamma   69.50458831
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHoSe2
+_chemical_formula_sum   'Li2 Ho2 Se4'
+_cell_volume   182.94509070
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li1  1  0.75000000  0.25000000  0.50000000  1
+  Ho  Ho2  1  0.25000000  0.75000000  0.50000000  1
+  Ho  Ho3  1  0.50000000  0.50000000  0.00000000  1
+  Se  Se4  1  0.74624790  0.74624790  0.00000000  1
+  Se  Se5  1  0.25375210  0.25375210  -0.00000000  1
+  Se  Se6  1  0.00375210  0.50375210  0.50000000  1
+  Se  Se7  1  0.49624790  0.99624790  0.50000000  1

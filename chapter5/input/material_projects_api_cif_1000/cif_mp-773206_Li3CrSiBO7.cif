@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li3CrSiBO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.35564251
+_cell_length_b   6.28526000
+_cell_length_c   5.09787164
+_cell_angle_alpha   90.00054949
+_cell_angle_beta   84.72077564
+_cell_angle_gamma   89.99863748
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3CrSiBO7
+_chemical_formula_sum   'Li6 Cr2 Si2 B2 O14'
+_cell_volume   266.59122697
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.10196700  0.25003800  0.76641200  1
+  Li  Li1  1  0.24930100  0.00268000  0.26026100  1
+  Li  Li2  1  0.24934500  0.49734900  0.26030000  1
+  Li  Li3  1  0.75052800  0.50283900  0.73975600  1
+  Li  Li4  1  0.75057400  0.99730400  0.73972700  1
+  Li  Li5  1  0.89800900  0.75002200  0.23344900  1
+  Cr  Cr6  1  0.31702300  0.74984600  0.79882800  1
+  Cr  Cr7  1  0.68299600  0.24983700  0.20134500  1
+  Si  Si8  1  0.42762800  0.24992400  0.72274400  1
+  Si  Si9  1  0.57238400  0.74993300  0.27730800  1
+  B  B10  1  0.03845900  0.75006500  0.70903300  1
+  B  B11  1  0.96161900  0.25005000  0.29089300  1
+  O  O12  1  0.11143800  0.25005600  0.36736900  1
+  O  O13  1  0.08496900  0.75004100  0.96480800  1
+  O  O14  1  0.17670600  0.75003600  0.52299100  1
+  O  O15  1  0.30513400  0.05240700  0.81860400  1
+  O  O16  1  0.30509100  0.44747100  0.81864400  1
+  O  O17  1  0.47015700  0.25002700  0.40289000  1
+  O  O18  1  0.40593900  0.75003600  0.13386700  1
+  O  O19  1  0.59406200  0.25002200  0.86622500  1
+  O  O20  1  0.52990900  0.75001200  0.59715500  1
+  O  O21  1  0.69486400  0.55241900  0.18131800  1
+  O  O22  1  0.69490400  0.94747000  0.18130500  1
+  O  O23  1  0.82335300  0.25004500  0.47702600  1
+  O  O24  1  0.91505500  0.25000300  0.03515700  1
+  O  O25  1  0.88858500  0.75006900  0.63258400  1

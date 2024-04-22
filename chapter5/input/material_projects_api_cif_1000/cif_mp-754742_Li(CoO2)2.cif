@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Li(CoO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.56302975
+_cell_length_b   9.56302975
+_cell_length_c   9.56303000
+_cell_angle_alpha   16.92379742
+_cell_angle_beta   16.92379742
+_cell_angle_gamma   16.92379757
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(CoO2)2
+_chemical_formula_sum   'Li1 Co2 O4'
+_cell_volume   64.64664875
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.91335100  0.91335100  0.91335100  1
+  Co  Co1  1  0.49729500  0.49729500  0.49729500  1
+  Co  Co2  1  0.00208800  0.00208800  0.00208800  1
+  O  O3  1  0.36653700  0.36653700  0.36653700  1
+  O  O4  1  0.63098700  0.63098700  0.63098700  1
+  O  O5  1  0.20178400  0.20178400  0.20178400  1
+  O  O6  1  0.79945800  0.79945800  0.79945800  1

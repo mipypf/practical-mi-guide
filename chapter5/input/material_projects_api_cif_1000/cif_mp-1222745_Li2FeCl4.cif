@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li2FeCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35135612
+_cell_length_b   7.35135612
+_cell_length_c   7.35135612
+_cell_angle_alpha   119.70352962
+_cell_angle_beta   119.28978924
+_cell_angle_gamma   90.87441283
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2FeCl4
+_chemical_formula_sum   'Li4 Fe2 Cl8'
+_cell_volume   283.02010970
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  0.50000000  1
+  Li  Li1  1  0.50000000  0.00000000  0.00000000  1
+  Li  Li2  1  0.11957200  0.86957200  0.25000000  1
+  Li  Li3  1  0.88042800  0.13042800  0.75000000  1
+  Fe  Fe4  1  0.50000000  0.50000000  0.00000000  1
+  Fe  Fe5  1  0.00000000  0.50000000  0.50000000  1
+  Cl  Cl6  1  0.25283500  0.73316300  0.98032800  1
+  Cl  Cl7  1  0.25283500  0.27250700  0.51967200  1
+  Cl  Cl8  1  0.24671700  0.73533800  0.51137900  1
+  Cl  Cl9  1  0.72395900  0.73533800  0.98862100  1
+  Cl  Cl10  1  0.74716500  0.26683700  0.01967200  1
+  Cl  Cl11  1  0.74716500  0.72749300  0.48032800  1
+  Cl  Cl12  1  0.75328300  0.26466200  0.48862100  1
+  Cl  Cl13  1  0.27604100  0.26466200  0.01137900  1

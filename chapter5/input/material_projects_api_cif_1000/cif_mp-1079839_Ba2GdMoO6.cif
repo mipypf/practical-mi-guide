@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2GdMoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04221100
+_cell_length_b   6.05383953
+_cell_length_c   6.05822619
+_cell_angle_alpha   119.57834519
+_cell_angle_beta   119.48028717
+_cell_angle_gamma   90.66726266
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2GdMoO6
+_chemical_formula_sum   'Ba2 Gd1 Mo1 O6'
+_cell_volume   158.00130671
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25328200  0.75169100  0.50266500  1
+  Ba  Ba1  1  0.74671800  0.24830900  0.49733500  1
+  Gd  Gd2  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo3  1  0.50000000  0.50000000  0.00000000  1
+  O  O4  1  0.72370400  0.73477400  0.47364500  1
+  O  O5  1  0.27629600  0.26522600  0.52635500  1
+  O  O6  1  0.75892900  0.28692600  0.00894200  1
+  O  O7  1  0.24107100  0.71307400  0.99105800  1
+  O  O8  1  0.71337600  0.75996800  0.01304400  1
+  O  O9  1  0.28662400  0.24003200  0.98695600  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MoPRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.67771700
+_cell_length_b   5.70473800
+_cell_length_c   6.10519900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoPRu
+_chemical_formula_sum   'Mo4 P4 Ru4'
+_cell_volume   441.54663649
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.75000000  0.07176900  0.15761200  1
+  Mo  Mo1  1  0.25000000  0.92823100  0.84238800  1
+  Mo  Mo2  1  0.75000000  0.57176900  0.34238800  1
+  Mo  Mo3  1  0.25000000  0.42823100  0.65761200  1
+  P  P4  1  0.25000000  0.29530300  0.02099100  1
+  P  P5  1  0.75000000  0.70469700  0.97900900  1
+  P  P6  1  0.25000000  0.79530300  0.47900900  1
+  P  P7  1  0.75000000  0.20469700  0.52099100  1
+  Ru  Ru8  1  0.25000000  0.66775100  0.12991400  1
+  Ru  Ru9  1  0.75000000  0.33224900  0.87008600  1
+  Ru  Ru10  1  0.25000000  0.16775100  0.37008600  1
+  Ru  Ru11  1  0.75000000  0.83224900  0.62991400  1

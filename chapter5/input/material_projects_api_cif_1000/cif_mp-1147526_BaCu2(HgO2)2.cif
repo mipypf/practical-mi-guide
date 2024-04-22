@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaCu2(HgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.96227200
+_cell_length_b   6.96227200
+_cell_length_c   6.63717600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCu2(HgO2)2
+_chemical_formula_sum   'Ba2 Cu4 Hg4 O8'
+_cell_volume   321.72536810
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Ba  Ba1  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu2  1  0.75000000  0.25000000  0.50000000  1
+  Cu  Cu3  1  0.25000000  0.75000000  0.50000000  1
+  Cu  Cu4  1  0.75000000  0.75000000  0.50000000  1
+  Cu  Cu5  1  0.25000000  0.25000000  0.50000000  1
+  Hg  Hg6  1  0.50000000  0.00000000  0.75944300  1
+  Hg  Hg7  1  0.50000000  0.00000000  0.24055700  1
+  Hg  Hg8  1  0.00000000  0.50000000  0.24055700  1
+  Hg  Hg9  1  0.00000000  0.50000000  0.75944300  1
+  O  O10  1  0.78912000  0.28912000  0.77157800  1
+  O  O11  1  0.71088000  0.21088000  0.22842200  1
+  O  O12  1  0.21088000  0.71088000  0.77157800  1
+  O  O13  1  0.28912000  0.78912000  0.22842200  1
+  O  O14  1  0.28912000  0.21088000  0.77157800  1
+  O  O15  1  0.78912000  0.71088000  0.22842200  1
+  O  O16  1  0.21088000  0.28912000  0.22842200  1
+  O  O17  1  0.71088000  0.78912000  0.77157800  1
