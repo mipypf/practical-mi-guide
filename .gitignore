@@ -45,3 +45,9 @@
 /chapter4/input/zip
 /chapter4/output
 /chapter5/src/ bayesian_optimization_gpr_full.ipynb
+/chapter5/src/opt_demo copy.ipynb
+/chapter5/src/opt_demo_multi_trial_NG.ipynb
+/chapter5/src/labelme_demo.ipynb
+chapter5/input/labelme_demo
+/chapter5/input/labelme_demo.json
+/chapter5/input/labelme_demo.png
