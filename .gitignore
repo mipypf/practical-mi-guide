@@ -44,7 +44,7 @@
 /chapter4/src/.ipynb_checkpoints
 /chapter4/input/zip
 /chapter4/output
-/chapter5/src/ bayesian_optimization_gpr_full.ipynb
+/chapter5/src/bayesian_optimization_gpr_full.ipynb
 /chapter5/src/psybo_demo_.ipynb
 /chapter5/src/psybo_demo.ipynb
 /chapter5/input/tsta_a_1791676_sm7407.csv
@@ -57,3 +57,5 @@ chapter5/input/labelme_demo
 /chapter5/input/labelme_demo.png
 /chapter5/src/opt_demo.ipynb
 /chapter5/src/opt_demo_constrain.ipynb
+/chapter5/src/bayesian_optimization_gpr.ipynb
+/chapter5/src/final_results_df.csv
