@@ -19,15 +19,14 @@
 
 ## 3章サンプルアプリ
 3章のテストデータを予測するサンプルGUIアプリを公開しています。  
-下記からアクセス可能です。  
-テストデータをアップロードすることでその予測結果を得ることができます。  
-
-![demo](https://github.com/mipypf/practical-mi-guide/blob/develop/images/sampleapp.gif)
 
 https://book-app-front-flame.vercel.app/
 
+下記からアクセス可能です。  
+テストデータをアップロードすることでその予測結果を得ることができます。  
 推論の実行は時間がかかる場合があります。
 
+![demo](https://github.com/mipypf/practical-mi-guide/blob/develop/images/sampleapp.gif)
 
 ## ライセンス
 本リポジトリのソースコードは[MITライセンス](http://www.opensource.org/licenses/MIT)です。
