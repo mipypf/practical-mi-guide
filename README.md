@@ -15,22 +15,14 @@
 
 ## Google Colabによるコードの確認
 本書のコードJupyter Notebook形式で用意しています。  
-これらはGoogle Colab上で開くことで、実際にコードを実行しながら確認することも可能です。  
-GitHubからNotebookを開くと、画面上部にGoogle Colabで開くボタンを設置しているのでそちらを押下して開いてください。  
-開けない場合には下記のように、GitHub上で開いた各NotebookのURLの一部を次の例のように変化させて試してみてください。
-
-例：
- GitHub      : https://github.com/mipypf/practical-mi-guide/blob/develop/chapter3/src/EDA.ipynb  
- Google Colab: https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter3/src/EDA.ipynb  
-
-「github.com/」を「colab.research.google.com/github/」に置き換えます。
+これらはGoogle Colab上で開くことで、コードを実行しながら動作を確認できます。  
 
 ## 3章サンプルアプリ
 3章のテストデータを予測するサンプルGUIアプリを公開しています。  
 下記からアクセス可能です。  
 テストデータをアップロードすることでその予測結果を得ることができます。  
 
-![demo]()
+![demo](https://github.com/mipypf/practical-mi-guide/blob/develop/images/sampleapp.gif)
 
 https://book-app-front-flame.vercel.app/
 
