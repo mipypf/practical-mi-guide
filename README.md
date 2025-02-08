@@ -29,9 +29,20 @@ https://book-app-front-flame.vercel.app/
 ![demo](https://github.com/mipypf/practical-mi-guide/blob/develop/images/sampleapp.gif)
 
 ## ライセンス
-本リポジトリのソースコードは[MITライセンス](http://www.opensource.org/licenses/MIT)です。
-商用・非商用問わず、自由にご利用ください。
+本リポジトリのソースコードは[MITライセンス](http://www.opensource.org/licenses/MIT)です。　　
+商用・非商用問わず、自由にご利用ください。  
+教育講座などで本リポジトリの商用利用を検討されている場合には、下記の連絡先までご一報
+なお、各種ソースコード中で利用されているライブラリやデータセットはそれぞれのライセンスに従うことをご注意ください。  
+
 
 ## 正誤表
 　本書の正誤表は以下のページで公開されています。
-　未記載の間違いを見つけた方は、〇〇までご連絡いただけると幸いです。
+　未記載の間違いを見つけた方は、下記の連絡先までご連絡いただけると幸いです。
+
+## 連絡先
+出版社：正誤のお問い合わせ  
+XXXXXX  
+
+著者連絡先(Xアカウント)
+![asdfasd]()
+![asdfasd]()
