@@ -30,32 +30,32 @@ Pythonのバージョンは3系を使用します。
 以下に各ノートブックと対応するGoogle Colabリンクをチャプターごとに一覧表としてまとめました。
 
 ### Chapter 3
-| ノートブック名 | Google Colabリンク |
-|:-|:-|
-| baseline_image_density.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter3/src/baseline_image_density.ipynb) |
-| baseline_scratch_resistance.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter3/src/baseline_scratch_resistance.ipynb) |
-| baseline_surface_tension.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter3/src/baseline_surface_tension.ipynb) |
-| baseline_viscosity.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter3/src/baseline_viscosity.ipynb) |
-| EDA.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter3/src/EDA.ipynb) |
-| test_data_analysis.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter3/src/test_data_analysis.ipynb) |
+| ノートブック名 | 概要 | Google Colabリンク |
+|:-|:-|:-|
+| baseline_image_density | 画像濃度のベースラインモデルを構築するサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter3/src/baseline_image_density.ipynb) |
+| baseline_scratch_resistance | 耐擦過性のベースラインモデルを構築するサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter3/src/baseline_scratch_resistance.ipynb) |
+| baseline_surface_tension | 表面張力のベースラインモデルを構築するサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter3/src/baseline_surface_tension.ipynb) |
+| baseline_viscosity | 粘度のベースラインモデルを構築するサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter3/src/baseline_viscosity.ipynb) |
+| EDA | データの探索的データ解析（EDA）を行うサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter3/src/EDA.ipynb) |
+| test_data_analysis | テストデータの解析を行うサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter3/src/test_data_analysis.ipynb) |
 
 ### Chapter 4
-| ノートブック名 | Google Colabリンク |
-|:-|:-|
-| feature_generation_cif.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/feature_generation_cif.ipynb) |
-| feature_generation_in_inorganic_materials.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/feature_generation_in_inorganic_materials.ipynb) |
-| feature_generation_in_organic_materials.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/feature_generation_in_organic_materials.ipynb) |
-| image_classification.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/image_classification.ipynb) |
-| image_segmentation_opencv.ipynb |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/image_segmentation_opencv.ipynb) |
+| ノートブック名 | 概要 | Google Colabリンク |
+|:-|:-|:-|
+| feature_generation_cif | CIFファイルから特徴量を生成するサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/feature_generation_cif.ipynb) |
+| feature_generation_in_inorganic_materials | 無機材料の特徴量生成を行うサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/feature_generation_in_inorganic_materials.ipynb) |
+| feature_generation_in_organic_materials | 有機材料の特徴量生成を行うサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/feature_generation_in_organic_materials.ipynb) |
+| image_classification | 画像分類を行うサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/image_classification.ipynb) |
+| image_segmentation_opencv | OpenCVを用いた画像セグメンテーションのサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/image_segmentation_opencv.ipynb) |
 
 ### Chapter 5
-| ノートブック名 | Google Colabリンク |
-|:-|:-|
-| bayesian_optimizaition_sample_proof_stress.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/bayesian_optimizaition_sample_proof_stress.ipynb) |
-| hyper_params_opt.ipynb |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/hyper_params_opt.ipynb) |
-| openpyxl_sample.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/openpyxl_sample.ipynb) |
-| opt_constraint_demo.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/opt_constraint_demo.ipynb) |
-| plotly_sample.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/plotly_sample.ipynb) |
+| ノートブック名 | 概要 | Google Colabリンク |
+|:-|:-|:-|
+| bayesian_optimizaition_sample_proof_stress | ベイズ最適化を用いた降伏応力の最適化サンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/bayesian_optimizaition_sample_proof_stress.ipynb) |
+| hyper_params_opt | ハイパーパラメータの最適化を行うサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/hyper_params_opt.ipynb) |
+| openpyxl_sample | OpenPyXLを用いたExcel操作のサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/openpyxl_sample.ipynb) |
+| opt_constraint_demo | 制約付き最適化のデモ | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/opt_constraint_demo.ipynb) |
+| plotly_sample | Plotlyを用いた可視化のサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/plotly_sample.ipynb) |
 
 ## 第3章サンプルアプリ
 第3章のテストデータを予測するサンプルGUIアプリを公開しています。  
@@ -78,10 +78,10 @@ https://book-app-front-flame.vercel.app/
 ## 正誤表＆お問い合わせ先
 本書の正誤情報はリンク先に記載されています。  
 
-![正誤表](https://www.morikita.co.jp/books/mid/085841)  
+[正誤表](https://www.morikita.co.jp/books/mid/085841)  
 
 リンク先に記載されていない誤植や、その他のお問い合わせについては出版社である森北出版のお問い合わせフォームからご連絡ください。  
 
-![お問い合わせフォーム](https://www.morikita.co.jp/inquiry)  
+[お問い合わせフォーム](https://www.morikita.co.jp/inquiry)
 
 
