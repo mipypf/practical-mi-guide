@@ -50,7 +50,7 @@ Pythonのバージョンは3系を使用します。
 | image_segmentation | 深層学習を用いた画像セグメンテーションを行うサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mipypf/practical-mi-guide/blob/develop/chapter4/src/image_segmentation.ipynb) |
 | image_segmentation_opencv | OpenCVを用いた画像セグメンテーションのサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/image_segmentation_opencv.ipynb) |
 | text_vectorization | テキストをベクトル化するサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/text_vectorization.ipynb) |
-| text_clustering | 文書をクラスタリングするサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/text_clustering.ipynb) |
+| text_clustering | 文書を2次元にマッピングするサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/text_clustering.ipynb) |
 | llm_rag | LLMを用いたRAG（Retrieval-Augmented Generation）のサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/llm_rag.ipynb) |
 | feature_generation_in_organic_materials | 有機材料の特徴量生成を行うサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/feature_generation_in_organic_materials.ipynb) |
 | visualization_of_organic_materials | 有機材料の可視化を行うサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/visualization_of_organic_materials.ipynb) |
@@ -66,7 +66,7 @@ Pythonのバージョンは3系を使用します。
 
 | ノートブック名 | 概要 | Google Colabリンク |
 |:-|:-|:-|
-| openpyxl_sample | OpenPyXLを用いたExcel操作のサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/openpyxl_sample.ipynb) |
+| openpyxl_sample | Openpyxlを用いたExcel操作のサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/openpyxl_sample.ipynb) |
 | plotly_sample | Plotlyを用いた可視化のサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/plotly_sample.ipynb) |
 | hyper_params_opt | ハイパーパラメータの最適化を行うサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/hyper_params_opt.ipynb) |
 | opt_constraint_demo | 制約条件付内の実験条件候補探索のデモ | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter5/src/opt_constraint_demo.ipynb) |
