@@ -47,7 +47,7 @@
 | ノートブック名 | 概要 | Google Colabリンク |
 |:-|:-|:-|
 | image_classification | 画像分類を行うサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/image_classification.ipynb) |
-| image_segmentation | 深層学習を用いた画像セグメンテーションを行うサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mipypf/practical-mi-guide/blob/develop/chapter4/src/image_segmentation.ipynb) |
+| image_segmentation | 深層学習を用いた画像セグメンテーションを行うサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https:/colab.research.google.com/mipypf/practical-mi-guide/blob/develop/chapter4/src/image_segmentation.ipynb) |
 | image_segmentation_opencv | OpenCVを用いた画像セグメンテーションのサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/image_segmentation_opencv.ipynb) |
 | text_vectorization | テキストをベクトル化するサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/text_vectorization.ipynb) |
 | text_clustering | 文書を2次元にマッピングするサンプル | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mipypf/practical-mi-guide/blob/develop/chapter4/src/text_clustering.ipynb) |
